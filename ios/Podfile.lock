@@ -202,7 +202,7 @@ PODS:
   - in_app_review (0.2.0):
     - Flutter
   - InMobiSDK/Core (10.1.3)
-  - ironsource_mediation (1.2.0):
+  - ironsource_mediation (1.1.0):
     - Flutter
     - IronSourceSDK (= 7.2.7.0)
   - IronSourceSDK (7.2.7.0)
@@ -617,7 +617,7 @@ SPEC CHECKSUMS:
   in_app_purchase_storekit: 4fb7ee9e824b1f09107fbfbbce8c4b276366dc43
   in_app_review: 318597b3a06c22bb46dc454d56828c85f444f99d
   InMobiSDK: 15589dbfbe6b28b1d3436ab1ede8654a0d7f2298
-  ironsource_mediation: b834a622565ae923a63306cc66677c93c904e625
+  ironsource_mediation: f3977740781c0bc22a71f7bcefa969c713dcbc44
   IronSourceSDK: 03ab6e62ac10589e5bea97cf0a379989f6965f36
   MintegralAdSDK: 605656a8d39bfbc9efd0fc9d34c31ec705ed784c
   myTargetSDK: f7f09df5c9934bf19b18fa1bdbc8d990f655df70

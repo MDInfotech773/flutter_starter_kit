@@ -1,5 +1,6 @@
 import 'package:adpluginx/Model/LoaderConfigration.dart';
 import 'package:adpluginx/Widget/AdMaterialApp/AdMaterialApp.dart';
+import 'package:adpluginx/adpluginx.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get_storage/get_storage.dart';
@@ -19,6 +20,7 @@ void main() async {
   MobileAds.instance.initialize();
   Logger logger = Logger();
   GetStorage box = GetStorage();
+  PackageInfoX().setVersion("1.0.0");
   runApp(const MyApp());
 }
 

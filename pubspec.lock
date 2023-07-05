@@ -388,10 +388,10 @@ packages:
     dependency: transitive
     description:
       name: ironsource_mediation
-      sha256: "89941c08ed39d1e81127fb5e30173527946245d36c6cdd6a71944f6df40589bb"
+      sha256: "1bde4b5fed2f157a0dbf232a533c3119fd3c61c21b79230b34479515d9b01c4e"
       url: "https://pub.dev"
     source: hosted
-    version: "1.2.0"
+    version: "1.1.0"
   js:
     dependency: transitive
     description:
